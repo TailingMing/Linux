@@ -1,2 +1,2 @@
 # Linux
-Notes of a weak dog
+## Notes of a weak dog
